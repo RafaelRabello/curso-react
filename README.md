@@ -42,7 +42,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Site para ver o projeto completo:
 
-[🔗 Clique aqui para acessar]()
+[🔗 Clique aqui para acessar](https://curso-react-three-zeta.vercel.app/)
 
 # 📱 Contato
 rafaeluzan@live.com
